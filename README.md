@@ -20,4 +20,4 @@
 #### Josivania - Exibir modelos indisponíveis
 
 #Diagrama de classes
-![image](https://user-images.githubusercontent.com/94202950/144603532-e10a2e5c-4da5-49c9-a79a-794c9b318672.png)
+[diagrama de classes](https://user-images.githubusercontent.com/94202950/144603286-0267eaa6-5319-4d0d-869f-b37ad6e3eff0.jpg)
