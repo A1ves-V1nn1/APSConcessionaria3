@@ -18,3 +18,6 @@
 #### Vinícius Alves - Vincular o carro ao cliente
 #### Josivania - Exibir modelos disponíveis
 #### Josivania - Exibir modelos indisponíveis
+
+#Diagrama de classes
+![image](https://user-images.githubusercontent.com/94202950/144603532-e10a2e5c-4da5-49c9-a79a-794c9b318672.png)
