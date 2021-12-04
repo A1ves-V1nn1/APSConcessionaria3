@@ -1,4 +1,4 @@
-## Histórias de usuário
+## Histórias de usuário (User stories)
 
 |   Código  | User Story                                                   |
 | --------- | ------------------------------------------------------------ |
