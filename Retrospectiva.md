@@ -4,14 +4,18 @@
 
 | Início da Iteração | Término da iteração |
 | ------------------ | ------------------- |
-| 30/11/2021         | 09/12/2021          |
+| 30/11/2021         | 14/12/2021          |
 
 
 ### Entregar a segunda etapa do projeto
 | Os responsáveis por cada tarefa deve realizar a entrega      | Atribuição                         |
 | ------------------------------------------------------------ | ---------------------------------- |
-| Os responsáveis por enviar os códigos que temos atualmente| `@Pedro H. Carmo` e `@Dilma Stephane` |
-| Os responsáveis pelos diagramas, HUs, storyboard e retrospectiva | `@Vinícius Alves`, `@Gilsilvan` e `@Josivânia`|
+| Realizar a entrega do código de cadastro de cliente| `@Dilma Stephane` |
+| Realizar a entrega do código de cadastro de veículos| `@Pedro H. Carmo`|
+| Realizar a entrega dos diagramas de classe e sequencia| `@Vinícius Alves`|
+| Realizar a entrega dos Storyboards| `@Vinícius Alves`|
+| Realizar a entrega das histórias de usuário| `@Gilsilvan Reis`|
+| Realizar a entrega da retrospectiva| `@Josivânia`|
 
 ### O que foi feito
 |  Tarefas realizadas por cada responsável                     | Atribuição                         |
