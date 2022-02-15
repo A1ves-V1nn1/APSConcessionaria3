@@ -1,9 +1,14 @@
-public class Cliente {
-    public String Nome;
-    public int Idade;
-    public String Endereco;
-    public String Email;
-    public String Telefone;
+package projetoaps;
+
+import java.util.Scanner;
+import static projetoaps.ProjetoAPS.lista;
+
+public class Cliente extends ProjetoAPS{
+    private String Nome;
+    private int Idade;
+    private String Endereco;
+    private String Email;
+    private String Telefone;
 
     public Cliente() {
 
@@ -58,12 +63,8 @@ public class Cliente {
     }
 
     @Override
-    public String toString() {
-        return  "Nome='" + Nome + '\'' +
-                ", Idade=" + Idade +
-                ", Endereco='" + Endereco + '\'' +
-                ", Email='" + Email + '\'' +
-                ", Telefone='" + Telefone + '\'';
+    public String toString(){
+        return getNome();
     }
-
 }
+
