@@ -37,4 +37,4 @@
 * Terminar o projeto concluido, melhorar os códigos atuais pois alguns ainda tem erros.
 
 ### Lições aprendidas
-* Que em um trabalho que envolve um grupo a comunicação é um fato importante.
+* Que em um trabalho que envolve um grupo a comunicação é um fator importante.
