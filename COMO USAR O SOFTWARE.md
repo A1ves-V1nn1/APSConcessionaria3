@@ -4,7 +4,7 @@
 ### Bom, para começar você baixou o arquivo rar que se encontra em (SOFTWARE_SCN.rar), depois de baixar o arquivo extraia o mesmo e logo em seguida abra, como se trata de um arquivo .jar não é necessário instalar nada. Você abriu o arquivo é se tudo deu certo tem uma tela de login aberta, como você já sabe a função de Registrar Usuário não tá implementada então somente clique no botão 'Entrar', e agora você tá na tela principal, onde você pode cadastrar clientes, veiculos, funcionários, ver os veículos disponíveis e etc. Abaixo continua a explicação com diagramas!
 
 ## Recomendações
-### Baixe o arquivo sql do banco de dados em Banco_Dados.md, também recomendo já ter instalado na sua máquina o xampp e o workbench, pois será necessário.
+### Baixe o arquivo sql do banco de dados em [Banco_Dados.md](https://github.com/A1ves-V1nn1/APSConcessionaria3/blob/9b44b67d9854e53e97432c91fd13e0314f188da5/BancoDados.md), também recomendo já ter instalado na sua máquina o xampp e o workbench, pois será necessário.
 
 ## Diagramas explicativos
 ### Diagrama ER
