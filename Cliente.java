@@ -1,70 +1,107 @@
-package projetoaps;
 
-import java.util.Scanner;
-import static projetoaps.ProjetoAPS.lista;
+package model;
 
-public class Cliente extends ProjetoAPS{
-    private String Nome;
-    private int Idade;
-    private String Endereco;
-    private String Email;
-    private String Telefone;
+
+public class Cliente {
+    private int cod;
+    private String nome;
+    private String cpf;
+    private String telefone;
+    private String email;
+    private String datanasc;
+    private String endereço;
+    private String cidade;
+    private String número;
 
     public Cliente() {
-
+    }
+    public Cliente(int codigo){
+        this.cod=codigo;
+    }
+    public Cliente(int cod, String nome, String cpf, String telefone, String email, String datanasc, String endereço, String cidade, String número) {
+        this.cod = cod;
+        this.nome = nome;
+        this.cpf = cpf;
+        this.telefone = telefone;
+        this.email = email;
+        this.datanasc = datanasc;
+        this.endereço = endereço;
+        this.cidade = cidade;
+        this.número = número;
     }
 
-    public Cliente(String Nome,int Idade,String Endereco,String Email,String Telefone) {
-        this.Nome = Nome;
-        this.Idade = Idade;
-        this.Endereco = Endereco;
-        this.Email = Email;
-        this.Telefone = Telefone;
+    public int getCod() {
+        return cod;
+    }
+
+    public void setCod(int cod) {
+        this.cod = cod;
     }
 
     public String getNome() {
-        return Nome;
+        return nome;
     }
 
-    public void setNome(String Nome) {
-        this.Nome = Nome;
+    public void setNome(String nome) {
+        this.nome = nome;
     }
 
-    public int getIdade() {
-        return Idade;
+    public String getCpf() {
+        return cpf;
     }
 
-    public void setIdade(int Idade) {
-        this.Idade = Idade;
-    }
-
-    public String getEndereco() {
-        return Endereco;
-    }
-
-    public void setEndereco(String Endereco) {
-        this.Endereco = Endereco;
-    }
-
-    public String getEmail() {
-        return Email;
-    }
-
-    public void setEmail(String Email) {
-        this.Email = Email;
+    public void setCpf(String cpf) {
+        this.cpf = cpf;
     }
 
     public String getTelefone() {
-        return Telefone;
+        return telefone;
     }
 
-    public void setTelefone(String Telefone) {
-        this.Telefone = Telefone;
+    public void setTelefone(String telefone) {
+        this.telefone = telefone;
     }
 
-    @Override
-    public String toString(){
-        return getNome();
+    public String getEmail() {
+        return email;
     }
+
+    public void setEmail(String email) {
+        this.email = email;
+    }
+
+    public String getDatanasc() {
+        return datanasc;
+    }
+
+    public void setDatanasc(String datanasc) {
+        this.datanasc = datanasc;
+    }
+
+    public String getEndereço() {
+        return endereço;
+    }
+
+    public void setEndereço(String endereço) {
+        this.endereço = endereço;
+    }
+
+    public String getCidade() {
+        return cidade;
+    }
+
+    public void setCidade(String cidade) {
+        this.cidade = cidade;
+    }
+
+    public String getNúmero() {
+        return número;
+    }
+
+    public void setNúmero(String número) {
+        this.número = número;
+    }
+    
+    
+    
 }
-
