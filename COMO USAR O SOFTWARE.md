@@ -7,3 +7,7 @@
 ### Diagrama ER
 ![image](https://user-images.githubusercontent.com/94202950/158374279-447f49cd-dcb9-4d5d-9084-7f1b30f1d0e0.png)
 
+### Diagrama de Classe
+![diagrama de classe](https://user-images.githubusercontent.com/94202950/158380508-f3f81703-997c-44a9-83ab-e658d6c16d27.jpg)
+
+### Diagrama de sequencia
