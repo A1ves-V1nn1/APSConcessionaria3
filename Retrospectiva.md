@@ -4,37 +4,36 @@
 
 | Início da Iteração | Término da iteração |
 | ------------------ | ------------------- |
-| 02/02/2022         | 15/02/2022          |
+| 28/02/2022         | 15/03/2022         |
 
 
 ### Entregar a terceira etapa do projeto
 | Os responsáveis por cada tarefa deve realizar a entrega      | Atribuição                         |
 | ------------------------------------------------------------ | ---------------------------------- |
-| Realizar a entrega do código de compras de cliente| `@Vinícius Alves` |
-| Realizar a entrega do código de editar dados do cliente| `@Gilsilvan Reis`|
-| Realizar a entrega dos diagramas de classe e sequencia| `@Pedro H. Carmo e @Gilsilvan`|
-| Realizar a entrega dos códigos de editar dados dos veiculos| `@Josivânia`|
-| Realizar a entrega das histórias de usuário| `@Dilma Stephane`|
-| Realizar a entrega do modelo ER |`@Vinícus Alves`|
-| Realizar a entrega da retrospectiva| `@Dilma Stephane e @Vinícius Alves`|
-| Realizar a entrega dos Casos de uso|`@Dilma Stephane`|
+| Manter o repositório atualizado | `@Vinícius Alves` |
+| Realizar a entrega da documentação clara e objetiva | `@Pedro H. Carmo`|
+| Realizar a entrega da atualização de HUs com rastreabilidade| `@Dilma Stephane e @Vinícius Alves`|
+| Realizar a entrega dos documentos de requisitos | `@Gilsilvan e @Josivânia`|
+| Realizar entrega da implementação de 3 HUs| `@Dilma Stephane e @Vinícius Alves`|
+| Realizar entrega da retrospectiva  |`@Dilma Stephane`|
+| Realizar a apresentação com MIC e Cam ligada no youtube| `@Dilma Stephane, @Vinícius Alves, @Pedro H. Carmo, @Gilsilvan e @Josivânia`|
 
 ### O que foi feito
 |  Tarefas realizadas por cada responsável                     | Atribuição                         |
 | ------------------------------------------------------------ | ---------------------------------- |
-| Sendo responsável por ter enviado os códigos |  `@Vinícius Alves` |
-| Sendo responsáveis pelo envio os diagramas de classe e sequência| `@Pedro H. Carmo e @Gilsilvan` |  
-| Sendo responsáveis pelo envio da retrospectiva |`@Dilma Stephane e @Vinícius Alves`|
-| Sendo responsável pelo envio do modelo ER |`@Vinícus Alves`|
-| Sendo responsável pelo envio das HUs |`@Dilma Stephane`|
-| Sendo responsável pelo envio dos Casos de uso|`@Dilma Stephane`|
+| Sendo responsável por manter o repositório atualizado |  `@Vinícius Alves` |
+| Sendo responsável pelo envio da documentação clara e objetiva| `@Pedro H. Carmo` |  
+| Sendo responsável pelo envio da retrospectiva |`@Dilma Stephane`|
+| Sendo responsáveis pelo envio da entrega dos documentos de requisitos|`@Gilsilvan e @Josivânia`|
+| Sendo responsáveis pelo envio da implementação de 3 HUs |`@Dilma Stephane e @Vinícius Alves`|
+| Sendo responsáveis pelo envio da apresentação com MIC e Cam ligada no youtube|`@Dilma Stephane, @Vinícius Alves, @Pedro H. Carmo, @Gilsilvan e @Josivânia`|
 
 ### O que não foi feito
-* Os responsáveis pelo envio dos códigos de editar dados tanto dos clientes quanto dos veiculos `@Gilsilvan e @Josivania` não conseguiram enviar, por conta de problemas com as IDEs. 
+* Os responsáveis pelo envio do documento de requisitos `@Gilsilvan e @Josivania` não enviaram, coube outros membros realizarem o documento. 
 > **Nota:** Levante o que não foi realizado e o seu respectivo impedimento.
 
 ### Planejado para próxima iteração
-* Terminar o projeto concluido, melhorar os códigos atuais pois alguns ainda tem erros.
+* Terminamos o projeto e conseguimos realizar todas as entregas.
 
 ### Lições aprendidas
-* Que em um trabalho que envolve um grupo a comunicação é um fator importante.
+* Durante todo o periodo de realização do projeto todas as etapas, toda a equipe amadureceu, aprendemos como trabalhar em equipe, realizar correções e aprender com os erros.
