@@ -4,4 +4,6 @@
 ### Bom, para começar você baixou o arquivo rar que se encontra em (SOFTWARE_SCN.rar), depois de baixar o arquivo extraia o mesmo e logo em seguida abra, como se trata de um arquivo .jar não é necessário instalar nada. Você abriu o arquivo é se tudo deu certo tem uma tela de login aberta, como você já sabe a função de Registrar Usuário não tá implementada então somente clique no botão 'Entrar', e agora você tá na tela principal, onde você pode cadastrar clientes, veiculos, funcionários, ver os veículos disponíveis e etc. Abaixo continua a explicação com diagramas!
 
 ## Diagramas explicativos
+### Diagrama ER
+![image](https://user-images.githubusercontent.com/94202950/158374279-447f49cd-dcb9-4d5d-9084-7f1b30f1d0e0.png)
 
