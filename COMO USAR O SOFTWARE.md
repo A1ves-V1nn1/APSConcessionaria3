@@ -11,3 +11,4 @@
 ![diagrama de classe](https://user-images.githubusercontent.com/94202950/158380508-f3f81703-997c-44a9-83ab-e658d6c16d27.jpg)
 
 ### Diagrama de sequencia
+![diagrama de sequência](https://user-images.githubusercontent.com/94202950/158391017-8f93db1a-13c7-4c04-a239-5259346e0f2e.jpg)
